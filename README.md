@@ -3,17 +3,13 @@
 # PCA Project with Scala
 The Dataset used is <h4>Cancer_Data</h4>
 Here is a description of the dataset we will be using:
-
-// Breast Cancer Wisconsin (Diagnostic) Database
-//
-// Notes
-// -----
-// Data Set Characteristics:
-//     :Number of Instances: 569
-//
-//     :Number of Attributes: 30 numeric, predictive attributes and the class
-//
-//     :Attribute Information:
+Breast Cancer Wisconsin (Diagnostic) Database
+Notes
+--------------
+Data Set Characteristics:
+Number of Instances: 569
+Number of Attributes: 30 numeric, predictive attributes and the class
+Attribute Information:
 //         - radius (mean of distances from center to points on the perimeter)
 //         - texture (standard deviation of gray-scale values)
 //         - perimeter
